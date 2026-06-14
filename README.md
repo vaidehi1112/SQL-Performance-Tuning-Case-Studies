@@ -1,4 +1,4 @@
-# sql_performance_tuning_case_studies
+# SQL_Performance_Tuning_Case_Studies
 Real-world SQL performance tuning scenarios including reporting query optimization, indexing strategies, and execution plan analysis.
 
 ## Overview
